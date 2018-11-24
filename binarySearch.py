@@ -1,1 +1,1 @@
-class binarySearch():
+class binarySearch:
